@@ -1,0 +1,58 @@
+About the job
+Trois parcours, une même ambition : construire des systèmes numériques fiables à l'ère de l'IA.
+REELIANT - L'ingénierie de la confiance.Durée : 6 mois (dates flexibles). Rémunéré : oui + avantages.Lieu : Paris 9e. Présentiel au démarrage, puis jusqu'à 2 jours de télétravail par semaineNiveau : Bac+5 – École d'ingénieur ou formation équivalenteSite : www.reeliant.com
+REELIANT en brefREELIANT est un atelier d'ingénierie numérique spécialisé dans la conception, la modernisation et le maintien en condition de confiance de systèmes d'information critiques.Nous accompagnons des organisations comme BMW Financial Services, Veolia, la Caisse des Dépôts ou Airbus, pour lesquelles la fiabilité, la sécurité et la pérennité des systèmes sont essentielles.Notre métier repose sur trois piliers :
+Développer de nouveaux services numériques, en intégrant l'IA là où elle crée une réelle valeur.
+Moderniser des systèmes complexes sans interrompre les activités qu'ils soutiennent.
+Maintenir des systèmes fiables, sécurisés et évolutifs dans la durée.
+Notre approche repose sur une conviction : la confiance se construit par l'ingénierie, de la conception à la mise en production, par la rigueur, la traçabilité et la maîtrise des choix techniques.REELIANT est reconnue EcoVadis Platinum (Top 1 % des entreprises évaluées).
+Pourquoi ce stage ?L'IA transforme les métiers de l'ingénierie numérique.Elle change la manière de développer, de tester, de documenter, de spécifier, de déployer et de piloter les projets.Les frontières entre développement, IA, DevOps et Product Engineering deviennent plus perméables. Un bon ingénieur doit conserver une expertise forte tout en comprenant les autres dimensions d'un système.Chez REELIANT, nous voulons explorer et intégrer ces nouvelles pratiques sur des projets concrets, avec la rigueur qu'exigent les environnements critiques.Nous proposons donc un stage commun à trois parcours, selon votre profil et vos appétences.Vous n'avez pas besoin de tout maîtriser. Nous recherchons de bonnes bases dans un domaine, de la curiosité et l'envie d'élargir votre champ d'action.
+Trois parcours possibles
+1. Software Engineering & AI - Concevoir, développer et intégrer l'IA dans des systèmes réels.Vous pourrez notamment :
+Concevoir et développer des services, API et applications web ou mobiles, de l'architecture à la mise en production.
+Travailler sur des interfaces et des parcours utilisateurs, en tenant compte des exigences d'ergonomie, de performance, de sécurité et d'intégration aux systèmes existants.
+Intégrer des LLM, des agents IA ou des architectures RAG dans des applications métier.
+Exploiter l'IA pour comprendre, moderniser, tester et documenter du code existant.
+Expérimenter des pratiques de développement assisté par l'IA tout en garantissant la qualité, la sécurité et la maintenabilité du code.
+
+2. DevOps & AI Engineering - Automatiser, industrialiser et fiabiliser les systèmes.Vous pourrez notamment :
+Concevoir et améliorer des pipelines CI/CD.
+Participer à la conteneurisation et au déploiement de services sur des infrastructures cloud ou on-premise.
+Automatiser les tests, les déploiements et la supervision.
+Contribuer à l'industrialisation de solutions IA : LLMOps, observabilité, traçabilité et contrôle des usages.
+Explorer comment l'IA peut améliorer les pratiques d'exploitation et de maintenance.
+
+3. Product Engineering & AI - Transformer des besoins métier en solutions numériques concrètes.Vous pourrez notamment :
+Participer au cadrage fonctionnel et technique de projets.
+Formaliser des besoins, des règles métier et des spécifications exploitables par les équipes et les outils IA.
+Expérimenter les approches de Spec-Driven Development et l'utilisation de l'IA pour structurer les spécifications, faciliter la coordination et accélérer la réalisation des projets.
+Contribuer à la priorisation, au suivi de projet et à la validation des solutions.
+Faire le lien entre utilisateurs, métiers et équipes techniques.
+
+Ces parcours ne sont pas des silos. Votre stage s'organisera autour d'une dominante, avec la possibilité de contribuer à d'autres dimensions de l'ingénierie.
+Votre profilVous êtes en dernière année d'école d'ingénieur ou en Master 2, avec une formation en informatique, ingénierie logicielle, IA, data ou systèmes numériques.Vous possédez de bonnes bases dans au moins un des domaines suivants :
+Développement logiciel : Java/Spring, Rust, Python, TypeScript, React, React Native ou technologies similaires, conception d'API, tests et qualité logicielle.
+IA / data : LLM, pipelines de données, intégration de composants IA.
+DevOps : Linux, Git, Docker, CI/CD, automatisation, infrastructures cloud.
+Product Engineering / conception fonctionnelle : analyse des besoins métier, spécifications fonctionnelles et techniques, modélisation, gestion de projet technique et coordination avec les équipes de réalisation.
+
+Au-delà des technologies, nous recherchons surtout :
+De la curiosité : vous aimez comprendre comment fonctionnent les systèmes et explorer de nouvelles approches.
+De la rigueur : vous vérifiez ce que vous produisez, y compris lorsque vous utilisez l'IA.
+De l'initiative : vous aimez proposer, expérimenter et résoudre des problèmes.
+Un esprit d'équipe : vous savez partager vos idées, expliquer vos choix et apprendre des autres.
+Une sensibilité produit : vous voulez comprendre à quoi sert ce que vous construisez.
+
+Ce que vous trouverez chez REELIANT
+Un accompagnement de proximité. Vous travaillerez directement avec des ingénieurs et architectes expérimentés, qui vous aideront à approfondir vos compétences.
+Des projets concrets. Vous contribuerez à des travaux internes ou clients, avec un objectif de qualité et d'utilisation réelle, au-delà de la simple démonstration.
+Une vision complète de l'ingénierie. Vous découvrirez comment s'articulent besoins métier, architecture, développement, IA, sécurité et exploitation.
+Un environnement d'expérimentation. Vous pourrez tester de nouvelles pratiques et de nouveaux outils, mais aussi apprendre à évaluer leur pertinence et leurs limites.
+Une équipe à taille humaine. Vos contributions seront visibles, vos idées écoutées et vos responsabilités adaptées à votre progression.
+
+Comment candidater ?Envoyez votre CV à recrutement@reeliant.com avec quelques lignes pour nous expliquer :
+Quel parcours vous attire le plus : Software Engineering & AI, DevOps & AI Engineering ou Product Engineering & AI ?
+Quel projet technique, académique ou personnel vous rend particulièrement fier ?
+Quelle compétence ou technologie aimeriez-vous approfondir pendant votre stage ?
+Un lien GitHub, une démonstration ou un portfolio sont les bienvenus, sans être obligatoires.
+Vous n'avez pas besoin de cocher toutes les cases. Nous cherchons avant tout des personnes qui aiment apprendre, comprendre et construire.

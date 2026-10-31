@@ -1,0 +1,87 @@
+Stage Intelligence Artificielle (all genders) - Débouché CDI
+
+Pourquoi Valtech ? Nous sommes l’entreprise d’innovation par l’expérience, partenaire de confiance des marques les plus reconnues au monde. Pour nos collaborateurs, nous offrons des opportunités de développement, une culture fondée sur des valeurs, une carrière internationale et la possibilité de façonner l’avenir de l’expérience client.
+
+Opportunité
+
+À Valtech, vous trouverez un environnement propice à l’apprentissage continu, à l’impact concret et à la croissance professionnelle. Que vous développiez de nouvelles solutions digitales, remettiez en question les idées reçues ou construisiez la prochaine génération d’expériences client, votre travail contribuera à transformer les secteurs d'activité.
+
+Rejoignez Valtech et construisez l'IA de demain, pour de grands groupes internationaux
+
+Chez Valtech, nous aidons nos clients, parmi les plus grands groupes internationaux, à tirer parti de l'IA générative. Pendant 6 mois, vous intégrerez notre équipe IA pour travailler sur des projets concrets, avec un objectif clair : un poste en CDI à la clé à l'issue du stage.
+
+Nous sommes fiers de :
+
+Notre travail et l'innovation que nous encourageons
+Nos valeurs : « share, dare, care »
+Une culture d'entreprise qui favorise la créativité, la diversité et l'autonomie
+Notre structure mondiale sans frontières, qui permet une collaboration fluide
+Rôle
+
+Vous participerez à la conception et au prototypage de solutions d'intelligence artificielle générative pour nos clients internationaux. Ces solutions peuvent prendre la forme d'assistants conversationnels, d'agents IA, d'outils d'aide à la décision, d'automatisation de processus métier ou encore d'expériences digitales enrichies par l'IA.
+
+Concrètement, vous serez amené(e) à :
+
+Concevoir et développer des prototypes exploitant les modèles d'IA générative (LLM) pour répondre à des cas d'usage métiers réels ;
+Expérimenter différentes architectures IA : RAG, agents, workflows orchestrés, génération de contenu, analyse documentaire, multimodalité)
+Évaluer et comparer des modèles selon leur qualité, leur performance, leur coût et leur adéquation aux besoins des utilisateurs ;
+Développer des démos et des interfaces permettant de présenter les solutions auprès des équipes et des clients ;
+Explorer l'utilisation de l'IA pour améliorer les processus métiers, l'expérience utilisateur, la gestion des contenus et l'exploitation des données ;
+Mesurer la fiabilité des solutions, mettre en place des protocoles d'évaluation et contribuer à l'amélioration continue des résultats ;
+Participer aux ateliers d'innovation, aux démos clients et à la veille technologique ;
+Documenter vos expérimentations et partager vos retours d'expérience afin de contribuer au développement des bonnes pratiques de l'équipe.
+Vous serez accompagné(e) par des experts et vos travaux serviront sur de véritables projets pour les clients de Valtech.
+
+Notre environnement technique
+
+Python, Jupyter Notebooks / Colab, Git, GitHub, Docker, APIs REST, Claude Code, GitHub Copilot, Cursor, VSCode, Claude, Gemini, OpenAI, modèles open source, LangChain, LangGraph, Google ADK, protocoles MCP et A2A, Streamlit, Gradio, FastAPI, LangSmith, Langfuse, RAG, Vector Search.
+
+Selon les environnements du client : Google Cloud, Microsoft Azure, AWS Ecosystèmes éditeurs (Salesforce, Adobe).
+
+ 
+
+Qualifications requises
+
+Afin d’être éligible à ce poste, vous devez posséder les qualifications essentielles suivantes :
+
+Vous êtes en 5ᵉ année (école d'ingénieurs ou master) en informatique, data science ou IA ;
+Vous avez déjà réalisé des projets en Python, en machine learning ou en IA ;
+Vous êtes curieux(se) des LLM et de l'IA générative, et vous aimez coder ;
+Vous êtes à l'aise en français et en anglais autant à l’écrit qu’à l’oral
+Si vous ne possédez pas toutes les qualifications mentionnées ou si vous avez des lacunes dans votre parcours, nous vous encourageons à postuler. À Valtech, nous reconnaissons la richesse des talents et valorisons la pluralité des perspectives ainsi que la soif d’apprendre.
+
+Engagement pour l’inclusion
+
+Nous concevons des expériences qui conviennent à toutes les personnes — et cela commence par nos équipes. À Valtech, nous avons à cœur de bâtir une culture inclusive où chaque individu se sent soutenu pour grandir, s'épanouir et atteindre ses objectifs. Quel que soit votre parcours, vous avez votre place. Explorez notre site Diversité et Inclusion pour en savoir plus sur nos actions en faveur d’un Valtech plus équitable.
+
+Bénéfices et avantages
+
+Il s’agit d’un poste en Stage de dernière année avec un débouché en CDI basé à Paris/France.
+
+En plus d’un package de rémunération compétitif, nous offrons :
+
+De la flexibilité, avec des options de travail à distance ou hybride
+Des perspectives d’évolution, avec des programmes de mobilité internationale et de développement professionnel
+Des opportunités d’apprentissage, avec accès à des outils de pointe, des formations et des experts du secteur
+Une réelle perspective d'embauche en CDI.
+Nos avantages sont adaptés à chaque localisation. Votre Talent Partner vous fournira tous les détails lors du processus de recrutement.
+
+Processus de recrutement
+
+Une fois votre candidature envoyée, notre équipe Talent Acquisition l’examinera sous quelques jours. Si vos compétences et votre expérience correspondent au poste, nous vous contacterons pour les prochaines étapes.
+
+⚠️ Attention aux fraudes : n’interagissez qu’avec des adresses e-mail officielles se terminant par @valtech.com.
+
+Nous nous engageons en faveur de l’inclusion et de l’accessibilité. Si vous avez besoin d’un aménagement raisonnable pendant le processus de recrutement, veuillez l’indiquer dans votre candidature ou en informer votre Talent Partner.
+
+À propos de Valtech
+
+Valtech est une entreprise d’innovation et d’expérience qui a pour vocation d’offrir une meilleure façon d'appréhender le monde. En combinant expertises, secteurs et cultures, nous aidons les marques à créer de la valeur dans un monde de plus en plus digital.
+
+À l’intersection des données, de l’IA, de la créativité et de la technologie, nous accompagnons la transformation de grandes entreprises telles que L’Oréal, Mars, Audi, P&G, Volkswagen Dolby, et bien d’autres.
+
+À Valtech, la transformation ne se limite pas aux discours. Nous la concrétisons. Nos collaborateurs sont au cœur de notre succès, et nous cultivons un environnement où chaque talent peut s’épanouir, évoluer et innover.
+
+Prêt·e à imaginer la suite ? Rejoignez-nous.
+
+Conformément à la loi allemande sur l'égalité de traitement et à son équivalent français, les offres d'emploi doivent être publiées de manière non sexiste. Nous utilisons la mention (all genders) pour préciser que ce poste est ouvert à tous les genres dans ces pays, même si le titre du poste lui-même peut être traduit ou interprété comme « masculin » en allemand ou en français.

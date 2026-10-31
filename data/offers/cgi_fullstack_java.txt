@@ -1,0 +1,69 @@
+Stage : Développeur(se) Full Stack Java - Secteur Energie F/H
+Category: Software Development/ Engineering
+Main location: France, Paris, Paris
+Position ID: J1026-1372
+Employment Type: Student Internship
+Position Description:
+Développement front-end, Back-end, Fullstack,... Ca te parle ?
+Nous rejoindre, c’est intégrer une communauté technique animée aussi bien par le défi de répondre aux enjeux de nos clients en proposant des solutions innovantes, que le partage entre pairs autour des dernières tendances technologiques et le développement des compétences grâce aux nombreuses formations et certifications proposées.
+
+Tu rejoins CGI, leader mondial du conseil et des services numériques à La Défense, et accompagne nos clients dans le secteur de l'énergie.
+
+Nous recherchons des stagiaires Développeur(se)s web F/H pour intégrer nos équipes techniques et contribuer à la réalisation des projets de nos clients.
+
+Your future duties and responsibilities:
+Tu participeras aux différentes étapes du projet, potentiellement sur cas d’usage innovants.
+Tu seras coaché(e) par un sachant Expert qui saura t’orienter et t’accompagner dans ta montée en compétences.
+
+- Participer aux ateliers de conception
+- Développer le prototype et le tester depuis un dossier d’architecture technique, une expression des besoins, traduite en spécifications fonctionnelles et en spécifications techniques
+- Participer aux meetings internes de l’équipe
+- Préparer la documentation et être en relation avec les différents interlocuteurs du projet (client et CGI)
+- Participer à la veille et aux ateliers pour identifier les initiatives d’innovations
+
+La diversité des projets offre un environnement technique très riche. Tu pourras en fonction des projets évoluer sur les technologies suivantes :
+- Framework Frontend : React, Angular, Vue, Flutter, Ionic
+- Micro-Service & API : Cloud Function Serverless, SpringBoot, Django, NodeJS
+- Virtualisation & conteneurisation : Docker, Rancher, Ansible
+- Tests & qualité : SonarQube, Checkmarks
+- CI/CD : Azure Devops, Github Actions
+- Data : SQL, NoSQL
+- Infrastructure Cloud : Amazon AWS, Microsoft Azure, Google GCP
+
+A l’issue du stage, tu seras en capacité d’analyser un besoin et d’avoir un esprit critique, de proposer des solutions adaptées et de les formaliser dans le cadre d’une démarche Agile.
+
+Rejoindre CGI dans le cadre de ton stage de fin d’études ou de ton alternance, c’est intervenir sur des projets d’envergure et variés en lien avec ta formation tout en bénéficiant d’un accompagnement de proximité pour construire ta carrière. C’est aussi s’investir auprès d’une entreprise responsable qui propose de nombreux avantages (prise en charge jusqu’à 100% des transports en commun) et partager des moments de convivialité pour ensuite nous rejoindre en CDI !
+
+Required qualifications to be successful in this role:
+De formation Bac +5, étudiant en école d’ingénieurs ou en université, avec une spécialité informatique, tu recherches un stage de fin d’étude pour valider ton diplôme.
+
+Tu as les connaissances/maîtrises suivantes :
+- Compétences informatiques : algorithmes, développement objet
+- Technologies (ce serait un plus) : Java, Angular, Javascript, HTML ...
+- Anglais niveau B2
+
+Tu fais preuve de :
+- Aisance relationnelle et esprit d’équipe
+- Proactivité et autonomie
+- Qualité rédactionnelle et esprit d'analyse et de synthèse
+
+Chez CGI, nous cultivons un environnement de travail respectueux, où chacun peut trouver sa place et développer son potentiel.
+Nous sommes engagés en faveur d’un recrutement inclusif, fondé sur l’égalité des chances et la non-discrimination. Cet engagement est reconnu par le Label Recrutement Inclusif, décerné par JobinLive.
+
+Skills:
+Angular
+Java
+What you can expect from us:
+Ensemble, en tant que propriétaires, mettons notre savoir-faire à l’œuvre.
+
+La vie chez CGI est ancrée dans l’actionnariat, le travail d’équipe, le respect et un sentiment d’appartenance. Chez nous, vous pourrez exploiter votre plein potentiel parce que…
+
+Nous vous invitons à devenir propriétaire dès le jour 1 alors que nous travaillons ensemble à faire de notre rêve une réalité. C’est pourquoi nous nous désignons comme associés de CGI, plutôt que comme employés. Nous tirons profit des retombées de notre succès collectif et contribuons activement à l’orientation et à la stratégie de notre entreprise.
+
+Votre travail crée de la valeur. Vous élaborerez des solutions novatrices et développerez des relations durables avec vos collègues et clients, tout en ayant accès à des capacités mondiales pour concrétiser vos idées, saisir de nouvelles opportunités, et bénéficier d’une expertise sectorielle et technologique de pointe.
+
+Vous ferez évoluer votre carrière en vous joignant à une entreprise bâtie pour croître et durer. Vous serez soutenus par des leaders qui ont votre santé et bien-être à cœur et qui vous permettront de saisir des occasions afin de parfaire vos compétences et élargir les horizons.
+
+Ce même engagement envers l’équité s’étend à notre utilisation des technologies. Afin de soutenir notre équipe de recrutement, des outils d’IA peuvent être utilisés pour aider à l’évaluation des candidatures, sans jamais remplacer le jugement humain. Toutes les décisions d’embauche demeurent entièrement entre les mains de nos professionnels du recrutement.
+
+Joignez-vous à nous, l’une des plus importantes entreprises de conseil en technologie de l’information (TI) et en management au monde.

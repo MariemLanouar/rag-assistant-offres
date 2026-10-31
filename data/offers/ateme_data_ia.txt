@@ -1,0 +1,76 @@
+About the job
+Ingénieur(e) Data IA
+
+(Python, LLM, Machine Learning)
+
+Si vous avez déjà regardé un programme à la télé ou un film sur votre téléphone ou tablette, il est fort probable que cette expérience ait été rendue possible grâce à une solution Ateme développée par nos équipes d’ingénieurs primés.
+
+Ateme (PARIS : ATEME) est le leader mondial de la diffusion vidéo, partenaire des plus grands fournisseurs de contenus et de services, ainsi que des plateformes de streaming telles que Netflix.
+
+Grâce à notre R&D de pointe et à notre capacité d’innovation, nous permettons à nos clients de proposer des expériences vidéo de haute qualité sur tous les appareils, tout en renforçant l’engagement des audiences et les revenus.
+
+Guidés par une politique RSE solide, nous nous efforçons chaque jour de construire un avenir meilleur et durable pour notre planète, nos collaborateurs et notre écosystème, tout en contribuant à rendre l’expérience du divertissement et de la vidéo plus captivante et accessible à tous.
+
+Chez Ateme, l'innovation, la collaboration, la responsabilisation, l'agilité et la contribution de chacun(e) sont des valeurs fondamentales. Nous sommes engagés en faveur de la diversité et de l'inclusion, notamment à travers des actions concrètes visant à favoriser l'égalité professionnelle, la féminisation de nos équipes et l'accompagnement des collaborateurs en situation de handicap.
+
+Rejoignez notre équipe internationale pour une aventure passionnante et contribuez à façonner l’avenir de la vidéo !
+
+Ateme recherche, pour un stage de fin d’études, un(e) Ingénieur(e) Data / IA appliquée à la qualité logicielle.
+
+Principales missions :
+
+Au sein du département Méthodes, Outils & Tests de la R&D, vous rejoindrez l'équipe AI Engineering, qui accompagne les équipes de développement et de validation dans l'intégration de l'IA à leurs pratiques.
+
+Au fil des versions, nos campagnes d'intégration continue ont constitué un patrimoine de tests conséquent : certains tests se recoupent, d'autres sont devenus obsolètes ou instables, et tous n'ont pas la même capacité à détecter les régressions.
+
+Votre objectif sera de concevoir et développer un outil Data/IA capable d'analyser ce patrimoine et de recommander les tests les plus pertinents à exécuter selon le contexte, afin d'optimiser la durée des campagnes tout en maintenant leur efficacité. Vous travaillerez sur des données réelles issues de l'environnement R&D Ateme : XRAY, PostgreSQL, Jira et GitLab CI.
+
+Votre périmètre comprendra :
+
+ Explorer et structurer les données de tests en croisant historiques d'exécution, anomalies et données d'intégration continue.
+ Concevoir et développer en Python un outil d'analyse et de recommandation permettant d'optimiser les campagnes de tests.
+ Identifier les tests redondants, obsolètes ou instables en combinant analyse des historiques et approches IA telles que NLP, embeddings et LLM.
+ Évaluer la pertinence des tests afin de recommander leur sélection et leur positionnement dans les différentes campagnes : commit, nightly ou release.
+ Mesurer et valider l'efficacité des recommandations à partir des données historiques et d'indicateurs tels que la durée des campagnes ou le taux de détection des régressions.
+ Collaborer avec les équipes de développement et de validation pour confronter les recommandations à leur expertise, puis documenter et présenter les résultats.
+
+Selon l'avancement du projet, vous pourrez également explorer des approches de Test Impact Analysis afin d'adapter la sélection des tests aux évolutions du code.
+
+Compétences demandées :
+
+De formation Bac+5 (école d'ingénieur ou Master universitaire) spécialisée en informatique, Data Science ou Intelligence Artificielle, vous souhaitez appliquer vos connaissances Data/IA à des problématiques concrètes d'ingénierie et de qualité logicielle.
+
+Vous aimez explorer les données, expérimenter différentes approches et transformer vos analyses en solutions utilisables par des équipes techniques. Vous disposez idéalement des connaissances suivantes :
+
+ Bonne maîtrise de Python et de la manipulation de données (pandas ou équivalent).
+ Bonne connaissance de SQL et des bases de données relationnelles.
+ Bases solides en Machine Learning et/ou NLP.
+ Connaissance des bonnes pratiques de développement logiciel et de Git.
+ Rigueur, esprit d'analyse et capacité à évaluer objectivement les résultats obtenus.
+
+Les connaissances suivantes seront un plus :
+
+ LLM, embeddings ou frameworks RAG.
+ PostgreSQL et GitLab CI.
+ Jira / XRAY ou outils équivalents de gestion des tests.
+ Outils de visualisation tels que Grafana, Streamlit ou Power BI.
+ Notions de tests logiciels et de CI/CD.
+
+Aucune expertise préalable en qualité logicielle ou sur XRAY/Jira n'est indispensable. Nous recherchons avant tout une personne curieuse, analytique et motivée par l'application de la Data et de l'IA à des problématiques R&D concrètes.
+
+Localisation : Le poste est basé à Rennes.
+
+Chez Ateme, l'intégration est bien plus qu'un processus. C'est une expérience complète conçue pour vous propulser vers le succès : un training immersif, des rencontres régulières avec le manager et les RH, une culture collaborative et des projets stimulants. Rejoignez-nous pour une aventure professionnelle enrichissante où votre épanouissement est notre priorité !
+
+Rémunération & avantages :
+
+ Gratification de 1500 € brut mensuel
+ Titres Restaurants pris en charge à 60% par Ateme
+ Avantages CSE et offres partenaires
+ Forfait mobilité durable pour encourager les déplacements responsables
+ Développement continu de vos compétences grâce à notre plateforme interne de formation (environnement vidéo, Kubernetes, AWS...)
+ Engagement fort en faveur de l’inclusion : notre Charte handicap prévoit des dispositifs d’accompagnement personnalisé (aménagement des postes, jours de congés supplémentaires, aide à l’appareillage ...)
+
+Avis aux cabinets de recrutement : l'équipe RH fait des étincelles pour ce poste ! Merci de ne pas leur voler la vedette 😉. On saura où vous trouver..., si besoin !
+
+Pour en savoir plus sur notre entreprise, n’hésitez pas à consulter notre site internet : www.ateme.com

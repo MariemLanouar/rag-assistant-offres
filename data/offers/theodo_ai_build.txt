@@ -1,0 +1,75 @@
+About the job
+L’histoire du groupe Theodo et son succès
+Theodo accompagne depuis 2009 les entreprises innovantes dans la conception, le développement et le déploiement de produits digitaux ingénieux - tels que la plateforme TF1+, l'application LCL Pro ou l'application France Identité Numérique - en tirant parti du meilleur de la technologie et de l’approche Lean.
+
+Theodo connait une croissance exceptionnelle depuis 15 ans : nos équipes rassemblent plus de 850 Theodoers, principalement des Software Engineers, passionnés de technologie et d’amélioration continue. En 2025, le groupe Theodo génère 100M€ de CA.
+
+La practice AI Build accompagne les entreprises de tous secteurs dans la conception et le développement d’applications web sur-mesure. Habitués à intervenir au sein d’écosystèmes IT existants, nous intégrons nos solutions avec des outils imposés - ERP, CRM, plateformes métiers complexes - et savons nous intégrer efficacement dans les systèmes développés par nos clients.
+
+Ton équipe :
+
+Tu rejoindras une communauté tech : software engineers, tech leads, engineering managers et architectes, avec lesquels tu pourras échanger, apprendre et progresser au quotidien.
+
+Chez Theodo, les techs travaillent en équipes projet, constituées en fonction des besoins de chaque client. Tu feras partie d’une équipe de Theodoers à taille humaine (4 à 5 personnes), réunissant Software Engineers, Tech Lead et Product Manager. Ensemble, vous collaborerez étroitement avec le client, avec des échanges réguliers pour partager vos avancées, approfondir la compréhension de son problème et faire évoluer le produit au plus près des besoins de ses utilisateurs.
+
+Le tech lead a pour objectif de te faire réussir : il te fait réfléchir aux problématiques que tu rencontres et en t’aidant à te débloquer. Tu pourras le solliciter à tout moment pour t’aider à progresser !
+
+Tes futures missions :
+Écrire du code selon les meilleurs standards de qualité pour t’assurer que ta solution soit rapide, sécurisée et stable, peu importe la techno employée. 
+Challenger les problèmes clients et proposer des solutions simples
+Prendre du recul sur les bugs et les potentiels d’amélioration de ton projet pour apprendre de tes erreurs et améliorer le fonctionnement de ton équipe. 
+
+
+Tu vas apprendre à produire un code de qualité 3 à 5 fois plus vite avec l'IA grâce à notre partenariat avec Anthropic !
+
+Toute la dynamique de l’entreprise repose sur l’engagement des Theodoers dans un apprentissage permanent.
+
+C’est pour cette raison que ton quotidien ne se limite pas aux projets clients : chaque Theodoer contribue à rendre l’entreprise meilleure en développant de nouvelles connaissances pour tous, qu’il partage via des conférences en interne et en externe, des articles de blog, des groupes d’expertises avec d’autres passionnés au sein de Theodo France…
+
+Exemple de projets :
+Les problématiques et les technos sont très différentes d’un projet à l’autre, voici quelques exemples :
+
+La plateforme Altitude développée en 6 mois pour AXA Climate permettant aux sociétés de gestion d'évaluer en moins de 10 min les risques liés au climat, à la transition carbone et à la biodiversité. Par exemple, Altitude est capable d’identifier des risques de montée des eaux et d’érosion côtière des bâtiments grâce à son algorithme et aux bases de données scientifiques d’AXA Climate. Toute la code base est en typescript, avec du React en frontend et du Serverless en backend. 
+L’application Cargo Readiness développée pour CMA CGM centralise la vérification de la conformité des containers avant onboarding (poids, documentation, normes). Auparavant dispersé entre plusieurs outils, ce suivi générait erreurs et retards. La nouvelle solution a permis de réduire de 90 % les annulations de dernière minute (<2 jours avant départ) et d’améliorer la fluidité logistique. L'application, en React, a été livrée en 4 mois, sur une API Rest en Spring Boot ingérant et consolidant des événements venant d'un broker centralisé. Dans un second temps l'IA de Mistral AI est venu se brancher à notre API pour améliorer l'expérience utilisateur.
+
+Ton parcours de progression :
+Notre ambition est de former les leaders de la tech de demain. Grâce au coaching et formations que l’on propose, tu pourras :
+
+Devenir un expert en développement en étant formé aux meilleurs standards de qualité
+Développer des compétences transverses : coaching, recrutement, commercial, management et marketing technique
+Participer à des groupes d’expertises avec d’autres passionnés (Cybersécurité, Serverless, Performance, GreenIT…)
+Construire ton parcours sur-mesure pour atteindre tes objectifs : tech lead, senior architecte, CTO ou fondateur d’une entité.. 
+
+
+Profil recherché :
+Pas besoin d’être déjà expert en développement : ce qu’on cherche, c’est ton potentiel !
+Tu es étudiant en école d’ingénieur et tu cherches un stage de fin d’étude de 4 à 6 mois
+Tu as un bon relationnel, tu aimes travailler en équipe avec des profils et des métiers différents
+Tu aimes travailler sur du concret et impacter directement les utilisateurs
+Tu es désireux d’évoluer dans un environnement qui encourage au quotidien l’envie de progresser, l’esprit d’équipe et la prise d’initiatives
+
+
+Si ton stage se passe bien et que les conditions sont réunies, nous sommes ouverts à poursuivre en CDI avec toi !
+
+Le processus de recrutement :
+
+Un échange de 30 minutes avec un recruteur pour échanger sur tes motivations et comprendre ton profil. 
+Un entretien avec le même recruteur d’une heure pour rentrer plus en détail sur ton parcours. 
+Un test de refactoring libre (1h30 de préparation) suivi d'un entretien dans nos locaux de debriefing avec un(e) tech expérimenté(e). 
+Un entretien technique de debugging avec un(e) tech expérimenté(e). 
+Un entretien avec un membre de l’équipe dirigeante. 
+
+
+Pourquoi rejoindre Theodo ?
+💼 Rejoindre un groupe de 850 personnes avec de nombreuses possibilités d’évolutions cross-entités
+
+🤝 Chaque Theodoer est accompagné par un coach interne. Son objectif : t’épauler dans ton quotidien et parler objectifs de carrière via des séances de coaching hebdomadaires.
+
+🎯 Participation à des projets associatifs grâce à la Fondation Theodo (Ada Tech School, Code Phoenix, Article 1…)
+
+🚇 Remboursement de 50% de l'abonnement de transport ou mobilité durable
+
+🍽 Carte ticket-restaurants Swile
+
+Prêt à nous rejoindre ?
+Chez Theodo, nous sommes convaincus que la diversité est une richesse et que l’égalité des chances est essentielle pour construire des équipes performantes et épanouies. C’est pourquoi notre processus de recrutement est conçu pour être équitable, bienveillant et fondé sur les compétences. Nous accueillons toutes les candidatures, sans distinction de genre, d’origine, d’orientation sexuelle, d’âge, de situation de handicap ou de croyances.

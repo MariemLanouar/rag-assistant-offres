@@ -1,0 +1,77 @@
+About the job
+Description De L'entreprise
+
+Sopra Steria, acteur majeur de la Tech en Europe, avec 51 000 collaborateurs dans près de 30 pays, est reconnu pour ses activités de conseil, de services et solutions numériques. Il aide ses clients à mener leur transformation digitale et à obtenir des bénéfices concrets et durables. Le Groupe apporte une réponse globale aux enjeux de compétitivité des grandes entreprises et organisations, en combinant une connaissance approfondie des secteurs d’activité et des technologies à une approche collaborative. Sopra Steria place l’humain au cœur de son action et s’engage auprès de ses clients à tirer le meilleur parti du numérique pour construire un avenir positif. En 2025, le Groupe a réalisé un chiffre d’affaires de 5,6 milliards d’euros.
+
+The world is how we shape it*
+
+Le monde est tel que nous le façonnons
+
+Sopra Steria Infrastructure & Security Services est la filiale de Sopra Steria dédiée aux activités d'infrastructures, cloud et cybersécurité. Elle est un acteur clé du end-to-end de Sopra Steria. Forte de ses 3000 collaborateurs, Sopra Steria I2S se distingue par la flexibilité de son modèle de delivery qui associe la proximité clients depuis nos 8 agences et les capacités industrielles avancées de nos centres de services en off-shore.
+
+Prêt(e) à relever le défi avec nous ?
+
+Description Du Poste
+
+Vous intégrez l'agence Digital Platform Services Ouest qui compte près de 160 collaborateurs.
+
+Dans le cadre des travaux d’innovation autour de l’intégration de l’IA générative au sein des systèmes d'information, Sopra Steria souhaite concevoir une suite d’agents IA spécialisés, capables d’assister les équipes opérationnelles dans des contextes variés : planification, MEP, support technique, capitalisation de connaissance, etc.
+
+Ces agents devront être conçus, entraînés, testés et déployables dans différents environnements SI, tout en préservant leur capacité à réutiliser et transférer leur savoir vers d’autres contextes (IA portable, réentraînement léger, adaptation par prompting évolutif).
+
+Votre rôle et vos missions:
+
+Vous étudiez les besoins fonctionnels et opérationnels.
+Vous définissez l’architecture fonctionnelle des agents IA.
+Vous identifiez les données d’apprentissage nécessaires.
+Vous concevez les comportements via des prompts structurés, chaînes de pensée, modèles de rôle.
+Vous expérimentez plusieurs LLM (open-source, cloud, souverains).
+Vous mettez en place un mécanisme d’entraînement supervisé léger (fine-tuning, RAG, mémoire vectorielle).
+Vous étudiez comment déplacer un agent d’un contexte A à un contexte B.
+Vous testez le concept sur un exemple.
+Vous intégrez les agents dans une architecture SI (containerisation, APIs, serveurs légers).
+Vous mettez en place une interface simple (CLI, web minimal, Teams bot).
+Vous rédigez un rapport technique complet.
+Vous présentez la démarche, les résultats et l’état de l’art.
+
+Environnement technique/fonctionnel: 
+
+IA générative / LLM / RAG
+Prompt engineering
+Déploiement logiciel (Docker, API REST)
+Architecture logicielle
+Compréhension des processus IT (ITSM, MEP, CAB, RoadMap)
+Analyse de données, structuration documentaire
+
+Les apports du stage:
+
+Progresser et de développer vos compétences
+Construire un avenir positif en mettant le digital au service de l'humain
+Évoluer dans une entreprise qui encourage l'audace, la curiosité et l'envie d'entreprendre
+
+Ce que nous vous proposons:
+
+Un accord télétravail pour télétravailler jusqu'à 2 jours par semaine selon vos missions.
+Un package avantages intéressants : des titres restaurants, accès aux subventions des activités sociales & culturelles.
+Des centaines de formations pour développer vos compétences et évoluer au sein du Groupe
+Des plateformes de formations en autonomie pour vous accompagner votre développement personnel 
+La possibilité de s'engager auprès de notre fondation ou de notre partenaire « Vendredi ».
+De très nombreuses opportunités en CDI peuvent vous attendre à l’issue du stage.
+
+Qualifications
+
+Votre profil:
+
+En quatrième année d'école d'Ingénieur ou formation équivalente, vous présentez un intérêt pour l'intelligence artificielle.
+
+Vous faites preuve d'aisance relationnelle et êtes à même de vous adapter à vos interlocuteurs.
+
+Vous présentez un intérêt particulier pour le travail collaboratif.
+
+Le challenge vous motive ? Nous avons hâte de vous rencontrer !
+
+Informations supplémentaires
+
+Employeur inclusif et engagé, notre société œuvre chaque jour pour lutter contre toute forme de discrimination et favoriser un environnement de travail respectueux. C’est pourquoi, attachés à la mixité et à la diversité, nous encourageons toutes les candidatures et tous les profils.
+
+https://www.soprasteria.fr/nous-connaitre/nos-engagements

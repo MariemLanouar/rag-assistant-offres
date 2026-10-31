@@ -1,0 +1,64 @@
+We're looking for a curious, structured and hands-on profile with a real product sense. You'll work alongside our Product Owner and take part in the full agile cycle, from user need to shipped feature, on a SaaS platform used daily by VC and Private Equity funds. Where product work used to stop at the ticket, you'll also prototype solutions yourself with AI coding tools.
+
+A great stepping stone towards a Product Manager role in fintech or private markets.
+
+Presentation of ScaleX Invest
+
+ScaleX Invest is a SaaS platform for Venture Capital, Growth Equity and Private Equity investors to centralise portfolio data and make better decisions on valuation, risk and performance.
+
+Building on Early Metrics’ decade of data and modelling expertise (since 2014), we combine a unique private-company dataset with validated methodologies to turn complex portfolio information into actionable insights for investment teams.
+
+Our platform offers three core solutions:
+
+Portfolio Monitoring: Real-time insights with risk and liquidity scoring for precise portfolio oversight and proactive risk management.
+Multi-Asset Valuation: Accurate, flexible valuations powered by exclusive private deal data and bespoke modelling for equity, debt, convertible instruments, and more.
+Venture Loan Scoring: Advanced scoring models, backed by a decade of testing, assess risk and ESG factors to guide smarter, compliant lending decisions.
+Job description
+
+Working alongside our Product Owner within the Product & Tech squad, and under the supervision of Edouard (COO & CPO), you will contribute to the design, delivery and improvement of the ScaleX platform for VC, Growth Equity & PE funds.
+
+Agile Delivery, Specs & Tickets:
+
+Support the Product Owner across the agile cycle, from backlog refinement to sprint demos
+Capture client needs in calls with Sales and Customer Success
+Write AI-assisted specs and user stories the tech team can act on directly
+Follow features through to release, documentation and adoption
+Functional Testing & AI Quality:
+
+Run functional and regression tests on the app before each release
+Use AI to generate test scenarios and automate recurring checks
+Test and stabilise our in-app AI features with evaluation datasets
+Mockups & UX:
+
+Go from idea to clickable mockup in hours, with AI-generated interfaces
+Run quick user tests with clients and internal teams to spot friction points
+Propose UX improvements on key journeys: data import, valuation, reporting
+Vibe Coding & Beta Prototyping:
+
+Prototype new features and Beta solutions with AI coding tools to test ideas with clients before committing development time
+Explore how AI can be embedded in the product: assistants, automations, data extraction
+Depending on your profile, you may also contribute to data and modelling projects aimed at improving our risk and valuation models.
+
+Why join us
+
+Private Equity exposure in a demanding environment: you'll work on the real problems of VC and PE funds (valuation, monitoring, LP reporting) and learn how investment teams operate, alongside clients with high standards.
+At the heart of the Ops department: you'll sit at the crossroads of Product, Data & Customer Success, with a 360° view of how a feature is designed, delivered and adopted by clients.
+A company in its structuring and growth phase: processes are still being built, which leaves real room for your initiatives. Good ideas get shipped, and responsibilities grow with you.
+AI-native, both in how we work and in what we build: you'll use AI tools daily to spec, prototype and automate, and contribute to the AI features embedded in our product.
+Your profile
+
+You're in a business school, engineering school or university program, with a first experience (internship, project, startup) in product, consulting or tech.
+You're curious about Venture Capital and Private Equity, with a real interest in data-driven businesses. Finance foundations are a plus.
+You've built something with AI coding tools: a small app, a prototype, an automation
+You're at ease with both business and tech profiles.
+You are fluent in French and English, as you will work in an international environment.
+Key information
+
+Starting date: January 2027 — 6 months
+Salary: €1.3K/month
+Location: 40 rue de Monceau, 75008 Paris
+Recruitment process
+
+Send your resume and cover letter to edouard@scalex-invest.com
+Intro call with our COO
+Product case with our COO and Product Owner
