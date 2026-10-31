@@ -1,0 +1,21 @@
+PROFIL FICTIF – utilisé uniquement pour tester le matching
+
+Candidate A – Développeuse front-end
+Étudiante en dernière année de Master Informatique, spécialité développement web et interfaces utilisateur. Recherche un stage de fin d'études de 6 mois en développement front-end.
+
+Compétences
+- Langages : JavaScript, TypeScript, HTML5, CSS3, SCSS
+- Frameworks : React, Next.js, Angular
+- Design et UX : Figma, design system, maquettes, accessibilité numérique (RGAA, WCAG), responsive design
+- Outils : Git, Storybook, Jest, Cypress, Vite
+- Notions : API REST (consommation côté client), performance web, SEO technique
+
+Expériences
+- Stage développeuse front-end (6 mois) : refonte de l'interface d'une application SaaS en React et TypeScript, création de composants réutilisables dans un design system, amélioration de l'accessibilité (contrastes, navigation clavier).
+- Stage intégratrice web (3 mois) : intégration de maquettes Figma en HTML/SCSS, sites responsives, optimisation des performances de chargement.
+
+Projets
+- Application de suivi d'habitudes en React avec animations et mode sombre.
+- Contribution open source à une bibliothèque de composants accessibles.
+
+Langues : français (natif), anglais (B2).

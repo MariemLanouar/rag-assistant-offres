@@ -1,0 +1,47 @@
+6-MONTH INTERNSHIP - Starting January 2027 - Cloud & AI Software Engineer - Master's ½ - €1700/month
+
+Life istoo short for a boring career!
+
+At L'Oréal Groupe, work doesn't mute you, it amplifies you. We believe your career should give you the same thrill, drive and fulfillment as your personal interests. Here, creativity drives innovation and ideas become impact. Grow across brands, markets, and divisions, and take your career in any direction you choose. With the global scale of L'Oréal, your growth knows no boundaries.
+
+Why join L'Oréal?
+
+88% of our interns are proud to work at L'Oréal.
+
+87% recommend L'Oréal for an internship.
+
+(Internal Satisfaction Survey - June 2026)
+
+A Day in the Life
+
+You will contribute to building and scaling high-performance cloud and AI solutions within our global tech community of 2,000 tech experts across 40+ specialisms, collaborating closely with experienced software and cloud engineers.
+• Participate in the development and deployment of Python (or TypeScript/C#) applications and microservices.
+• Support the design of scalable cloud architectures across Google Cloud Platform (GCP), Microsoft Azure, or AWS.
+• Assist in integrating modern AI frameworks, including Retrieval-Augmented Generation (RAG), vector embeddings, and multi-tenant structures into real-world use cases.
+• Contribute to continuous integration and continuous deployment (CI/CD) pipelines and maintain clean Git versioning across code repositories.
+• Help evaluate emerging AI development tools to optimize daily engineering workflows and strengthen system security.
+
+We Are Looking For
+
+You bring a builder mindset, a curiosity for cutting-edge cloud infrastructure, and practical coding experience. You bring:
+• Software Development: Solid proficiency in Python, JavaScript/TypeScript, or C#, demonstrated through personal code repositories, open-source contributions, or technical hackathons.
+• Cloud Computing: Practical understanding of public cloud fundamentals (GCP, Azure, or AWS) and API-driven architectures.
+• Artificial Intelligence: Hands-on familiarity with practical AI concepts, including RAG patterns, embeddings, or agentic developer tools.
+• DevOps & Tooling: Experience with Git version control and exposure to automated deployment workflows or modern coding environments.
+• Communication & Teamwork: Professional working proficiency in English; operational French is required for specific project assignments.
+
+What's In It For You
+• A place for you to leave your comfort zone and grow beyond your potential (here, you'll be encouraged to try new things and take risks!)
+• Real responsibility from day 1, there's no sitting on the sidelines at L'Oréal
+• An environment where people of every ethnicity, social background, age, religion, gender and sexual orientation as well as people with disabilities are accepted, can speak up, will thrive and are celebrated!
+• A place where you can contribute to something bigger! Many of our brands have societal/environmental causes to make a concrete difference
+
+Who We Are
+
+You will be part of a dynamic and curious community of interns, apprentices, and VIEs from around the world. We offer an onboarding journey, networking opportunities, and tailored development sessions to launch your tech career.
+
+Our international teams represent 80 nationalities across L'Oréal Group, with our Tech and Digital experts driving augmented beauty, hyper-personalized diagnostics, and scalable global platforms. We are committed to fostering gender balance and an inclusive engineering culture.
+
+We're committed to guaranteeing inclusive recruitment processes and to advocating for hiring and promoting each candidate in an ethical and equitable way. The Group strictly prohibits discrimination against any applicant for employment because of the individual's gender identity or expression, sexual orientation, visible and/or invisible disabilities, socio-economic and/or multicultural origins, health conditions, age, religion, or any other characteristics protected by law.Wondering how AI is integrated in our L'Oréal recruitment process? Find practical information and advice in our AI Charter.Ready to apply? careers.loreal.com is the official trusted website.
+
+Want to discover more about L'Oréal Careers? Get the insider tips from L'Oréal recruiters on TikTok @LorealGroupe!

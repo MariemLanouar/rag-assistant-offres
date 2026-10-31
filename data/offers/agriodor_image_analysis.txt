@@ -1,0 +1,20 @@
+Agriodor – Stage : automatisation de l'analyse d'images du comportement d'insectes (Rennes, 6 mois)
+
+Agriodor est une PME de l'AgriTech fondée en 2019 après 5 ans de recherche à l'INRAE. La société développe des solutions de biocontrôle pour lutter contre les ravageurs des cultures, à partir de parfums à base de médiateurs chimiques qui modifient le comportement des insectes. Équipe pluridisciplinaire d'une quarantaine de personnes.
+
+Description du poste
+Vous prenez une part active à un projet d'automatisation de l'analyse d'images du comportement d'insectes afin d'en extraire des mesures fiables et reproductibles.
+- Construire le jeu de données : définir les règles d'annotation, trancher les cas ambigus, annoter et documenter les choix.
+- Spécifier les images nécessaires (résolution, cadrage, éclairage, cadence, format) avec le prestataire d'acquisition.
+- Développer la chaîne de détection et de comptage, du traitement d'image classique au modèle appris, et justifier ses choix par des mesures.
+- Définir et mesurer la performance : quelle métrique répond réellement à la question du biologiste ?
+
+Profil recherché
+Personne curieuse et rigoureuse, de formation informatique, traitement d'image, science des données ou apprentissage automatique.
+- Rigueur expérimentale : construire une évaluation honnête et dire ce qui ne marche pas.
+- Autonomie technique : Python, capacité à se débloquer seul sur une bibliothèque inconnue, pratique de Git, code que quelqu'un d'autre peut relancer.
+- Goût du réel : regarder les images avant de coder, analyser les erreurs du modèle.
+- Capacité à expliquer à des scientifiques non informaticiens.
+
+Ce que nous proposons
+Stage de 6 mois à partir de février-mars 2027, à Rennes, en présentiel. Encadrement direct par le Head of Data, machine de calcul et jeu d'images disponibles dès le premier jour.

@@ -1,0 +1,95 @@
+About the job
+YOUR WORK ENVIRONMENT
+
+Why AXA?
+
+At AXA, we work together every day for human progress by protecting what matters. It’s a foundation of our actions, our strategy, and the way we collaborate across the Group. Every day, we contribute to human progress in a way that is practical, responsible, and meaningful, creating a shared sense of direction, commitment, and collective impact that connects people across teams, countries, and roles.
+
+As one of the world’s leading insurers in the protection of property, people, and assets, AXA brings together 154,000 employees and contributors across 50 countries, serving over 95 million customers worldwide.
+
+As a responsible corporate citizen, AXA is deeply engaged in social and environmental initiatives and actively promotes an inclusive culture where every voice matters, differences are valued, and everyone is encouraged to grow through our strategy Care and Dare.
+
+About AXA Group Headquarters (GIE AXA)
+
+AXA Group Headquarters (GIE AXA) brings together the Group’s corporate functions and plays a central role in shaping and driving AXA’s global strategy. It supports subsidiaries worldwide by ensuring strategic alignment, governance, operational and technical excellence, consistency of standards, and the sharing of best practices across the organization.
+
+With nearly 1,000 employees representing 45 nationalities, the headquarters embodies AXA’s strong international culture and offers a dynamic, collaborative, and intellectually stimulating environment: where global impact meets everyday teamwork.
+
+If these ambitions resonate with you, come and help shape the future of protection with us!
+
+Your Role And Responsibilities
+
+What You’ll Do
+
+Building a centralized and reliable data pipeline
+
+Collecting, cleaning, and inventorying nat cat claims data stored across various sources and formats (Excel, CSV, JSON, etc.)
+Designing and implementing an ETL (Extract, Transform, Load) pipeline in Databricks to automate data ingestion, cleaning, and standardization
+Applying data quality checks and validation rules to ensure accuracy and consistency of the data
+
+Developing a user-friendly data loading/extraction interface
+
+Creating an intuitive interface within Databricks (e.g., using Databricks Widgets or a notebook-based UI) allowing non-technical users to load/submit data with ease.
+Implementing clear error messages and guided workflows to support data contributors across teams.
+
+ Enabling data visualization and self-service analytics
+
+Building an interactive dashboard connected to the cleaned Databricks data layer, providing meaningful insights on the claims data
+Integrating a data download feature, allowing authorized users to export clean, structured datasets directly from the platform
+
+ Documenting and maintaining the solution
+
+Producing clear technical documentation covering the pipeline architecture, data dictionaries, and user guides
+Following data engineering best practices (version control, modular code, reproducibility)
+
+YOUR PROFILE
+
+ Who You Are 
+
+Education
+
+Engineering or Master's degree in a relevant field (Computer Science, Data Engineering, Applied Mathematics, Statistics, or equivalent)
+
+Technical & Professional Skills
+
+Programming skills in Python/R (pandas, PySpark) and/or SQL
+Experience or strong interest in Databricks (notebooks, Delta Lake, workflows)
+Familiarity with ETL pipeline design and data quality concept
+French and Business English – fluent (spoken and written)
+
+Interpersonal Skills
+
+Autonomous and resourceful 
+Rigorous and detail-oriented 
+Strong communication skills 
+Curious and eager to learn about the insurance industry
+Motivated by working in an international and dynamic environment
+
+We encourage you to apply even if you do not fully meet all the qualifications listed.
+
+At AXA, we are convinced that diversity is the wealth of our company. We ensure equal skills-based application review and accommodate specific needs.
+
+What We Offer
+
+An international work environment - over 45 nationalities present on site!
+State of the art office spaces in the heart of Paris with remote work allowed. 
+60% reimbursement of Navigo pass
+Generous Inter-Company Committee. 
+Company restaurant and meal vouchers.
+And most importantly: a valuable experience within an active Early Talent community!
+
+During the recruitment process, feel free to inform the recruiters about any specific adjustments you may need for your job.
+
+WHY JOIN US
+
+You Will Join
+
+A responsible company, towards people, including its employees and customers, and towards the planet 
+A company with strong values
+A company promoting internal mobility and the training of its employees
+A company offering many benefits (learn more here: AXA Careers)
+A flexible company, allowing hybrid work, in the office and from home.
+
+In line with our commitments, we celebrate each new hire by taking action for global reforestation: we plant a tree for every recruitment. So, are you ready to apply?
+
+AXA Group Headquarters (GIE AXA) is committed to equal employment opportunity and will consider applicants regardless of gender, sexual orientation, age, ethnicity and origins, marital status, religion, disability, or any other protected characteristic. At AXA Group Headquarters, we know that an inclusive culture enables business growth and is critical to our success.

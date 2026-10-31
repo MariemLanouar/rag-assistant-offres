@@ -1,0 +1,25 @@
+Coexya – Stage de pré-embauche Développeur Java / Angular – projet Cortex (Rennes, 4 à 6 mois)
+
+Contexte et missions
+Vous rejoindrez l'entité Smart Data de Coexya, composée d'environ 80 personnes réparties entre Rennes et Lyon, avec des équipes projets stables travaillant au forfait sur des sujets variés (santé, juridique, industrie, agriculture…).
+Vous pourrez notamment intervenir sur le projet Cortex, une plateforme qui vise à centraliser et sécuriser les données patients pour améliorer les parcours de soins. Sur ce projet, vous interviendrez sur le module permettant l'affichage des données des patients fournies par les établissements de santé.
+
+Vos missions
+- Participer à toutes les phases du projet en méthodologie agile : analyse des besoins, conception, réalisation, tests et déploiement.
+- Réaliser le développement de solutions logicielles en prenant soin autant de la conception que de l'ergonomie.
+- Intégrer l'amélioration continue du produit, notamment à travers l'éco-conception, l'accessibilité numérique et la qualité logicielle.
+
+Environnement technique
+Java, Spring, SQL, Git, Docker, ELK, Angular/Typescript, SCSS. Cela n'induit pas que vous deviez tout maîtriser !
+
+Attendus techniques
+- Maîtrise du framework Java Spring ainsi que du framework Angular.
+- Très bonne connaissance de la gestion des sources via Git.
+- Connaissances SQL.
+- Une première approche de la stack ELK et de l'environnement Docker sera appréciée.
+
+Attendus humains
+- Esprit d'équipe et de logique.
+- Aisance relationnelle et capacités rédactionnelles.
+
+Encadrement par un expert Java et un expert Angular. Programme de formation ouvert aux stagiaires, remboursement de l'abonnement transport à 75 %.

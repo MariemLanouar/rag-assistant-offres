@@ -1,0 +1,21 @@
+Brut. – Stage Data Engineer (6 mois)
+
+Brut. est un média digital international d'actualité, d'enquêtes et de culture. Média d'actualité le plus suivi sur les réseaux sociaux en France et en Europe, Brut. touche chaque mois des millions de personnes et est présent en Inde et dans de nombreux pays d'Afrique. Depuis septembre 2025, Brut fait partie du groupe CMA Media (BFM, RMC, la Tribune).
+
+Notre équipe Data recherche un.e stagiaire data engineer pour une durée de 6 mois, pour débuter dès que possible.
+
+Rattaché.e au Head of data, vos principales missions sont :
+- Développer des librairies Python facilitant le travail des Data Scientists et Data Analysts.
+- Créer et optimiser des pipelines de collecte et d'ingestion de données.
+- Mettre en place les systèmes de surveillance de la data platform.
+- Enrichir l'infrastructure de la data platform via des outils de gestion d'infrastructure « as code ».
+- Diffuser les bonnes pratiques de développement au sein de l'équipe data (architecture, gestion du code, peer programming, code reviews, CI/CD).
+- Améliorer les process et la stack technique data (exemples : collecte des données des publications Brut sur les réseaux sociaux, automatisation de la mise en production d'algorithmes de recommandation).
+
+Ce qui va nous attirer :
+- Vous avez déjà été confronté à une plateforme cloud (GCP, AWS, Azure…).
+- Votre curiosité et votre appétence pour les médias et les réseaux sociaux.
+- Vous avez déjà développé un projet (personnel, école ou professionnel) avec des langages data ou IA.
+- Vous avez un bon niveau en anglais technique.
+
+Avantages : MacBook Pro, tickets restaurant, remboursement à 50 % du titre de transport, avantages CSE.

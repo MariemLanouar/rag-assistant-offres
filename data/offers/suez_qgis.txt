@@ -1,0 +1,21 @@
+SUEZ Consulting – Stage : développement d'un outil cartographique sous QGIS (Saint-Grégoire, Rennes)
+
+SUEZ Consulting accompagne les villes, territoires et sites industriels dans leur transition énergétique et écologique. L'Agence régionale Ouest regroupe environ 90 ingénieurs, experts et techniciens autour des métiers de l'eau, de l'environnement et des infrastructures urbaines.
+
+Votre mission
+Basé(e) à Saint-Grégoire (Rennes), au sein du Pôle Hydraulique et Data.
+Dans le cadre de schémas directeurs d'assainissement, SUEZ Consulting analyse l'incidence des rejets issus de systèmes d'assainissement sur les cours d'eau, à partir d'un calcul simplifié de dilution.
+L'objectif du stage est de développer un outil cartographique sous QGIS, représentant cette incidence par une colorimétrie des tronçons de cours d'eau selon leur qualité écologique en amont et en aval des rejets.
+
+Missions
+- Structurer les données nécessaires : tronçons hydrographiques, qualité écologique, débits des cours d'eau.
+- Développer un outil sous QGIS avec une interface simple, exploitable par des non-spécialistes SIG.
+- Documenter l'outil et proposer des pistes d'évolution.
+
+Profil
+- Étudiant en dernière année de Master ou école d'ingénieur spécialisé en géomatique.
+- Maîtrise de QGIS (analyse spatiale, visualisation, manipulation de données géographiques).
+- À l'aise avec Office 365.
+- Compétences appréciées : Python (automatisation, librairies géomatiques), PostgreSQL / PostGIS, développement Qt5, Power BI, notions de web mapping.
+
+Stage à pourvoir dès début 2027.

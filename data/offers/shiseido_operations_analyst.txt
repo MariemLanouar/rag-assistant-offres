@@ -1,0 +1,25 @@
+Shiseido – Stage Operations Performance Analyst (Neuilly-sur-Seine, janvier 2027)
+
+Shiseido, fondé en 1872 au Japon, est l'un des leaders mondiaux de la beauté (soin, parfum, maquillage), présent dans plus de 120 pays. Shiseido EMEA, basé à Neuilly-sur-Seine, couvre notamment les marques de parfum Issey Miyake, narciso rodriguez, Zadig&Voltaire et Serge Lutens.
+
+Activités principales
+1) Traçabilité & alertes
+- Sur la base des données collectées par le logiciel, définir et mettre en place des alertes pour détecter les distributions anormales.
+- Piloter la mise à jour et l'automatisation de ces alertes ainsi que la mise en place de black lists (produits volés, à retirer du marché).
+- Créer le processus de suivi, d'analyse et d'amélioration continue de ces alertes.
+- Restituer les alertes au COMEX et coordonner les plans d'actions avec les équipes opérationnelles.
+
+2) Performance Opérations
+- Consolider les inventaires et couvertures de stock de la zone EMEA, identifier les tendances et déviations.
+- Construire et maintenir les indicateurs de performance des Opérations.
+- Automatiser et optimiser les reportings.
+- Support analytique ad hoc pour les équipes opérations.
+
+Profil recherché
+- Bac +4/+5 école d'ingénieurs, école de commerce ou université.
+- Intérêt marqué pour la supply chain et la data.
+- Très bonne maîtrise d'Excel ; compétences Power BI appréciées.
+- Esprit de synthèse, rigueur, esprit analytique, capacité de présentation.
+- Anglais courant.
+
+Stage de 6 mois à partir de janvier 2027.

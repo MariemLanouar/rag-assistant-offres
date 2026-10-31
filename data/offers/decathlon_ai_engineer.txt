@@ -1,0 +1,27 @@
+Decathlon Digital – Stagiaire AI Engineer – Disruption & IA Alternatives (Paris)
+
+L'essentiel
+- Contrat : stage de fin d'études (six mois)
+- Démarrage : premier trimestre 2027
+- Lieu : Paris
+- Niveau : Bac+5
+
+Le contexte
+Au sein de Decathlon Digital (Pôle People Data & AI), nous recherchons un profil audacieux pour concevoir, prototyper et tester des alternatives radicales fondées sur l'IA générative et agentique, pour le quotidien technologique de 100 000 collaborateurs.
+
+Ce qui rend le projet unique
+- Terrain d'expérimentation réel : auditer les systèmes internes pour concevoir des solutions de rupture (agents autonomes, architectures RAG avancées, automatisation de pointe).
+- Stack technique moderne : GCP, Vertex AI, modèles de fondation récents.
+
+Missions principales
+- Audit & Discovery : repérer les zones de friction dans nos outils et identifier les cas d'usage où l'IA surpasse les solutions en place.
+- Prototypage & R&D : coder et éprouver des architectures agentiques et des pipelines RAG avancés.
+- Évaluation & LLMOps : mesurer la performance des modèles selon des critères précis (latence, précision, coût, valeur métier).
+- Protocoles d'interaction : tester l'intégration de standards récents (MCP, échanges Agent-to-Agent) avec l'écosystème Data et SIRH.
+- Restitution & impact : présenter les démonstrations aux équipes produit et tech.
+
+Profil recherché
+- Étudiant(e) en dernière année de cursus Bac+5 (école d'ingénieurs ou master en IA, Data Science ou Informatique).
+- Maîtrise de Python, aisance sur le cloud (GCP, Vertex AI) et culture solide en IA générative (LLM, embeddings, RAG, agents).
+- Profil « builder », esprit critique, curiosité technique et clarté à l'oral.
+- Français courant et anglais professionnel.

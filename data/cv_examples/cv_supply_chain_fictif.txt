@@ -1,0 +1,19 @@
+PROFIL FICTIF – utilisé uniquement pour tester le matching
+
+Candidat B – Analyste supply chain et performance opérationnelle
+Étudiant en dernière année d'école de commerce, majeure Supply Chain Management. Recherche un stage de fin d'études de 6 mois en analyse de la performance opérationnelle.
+
+Compétences
+- Analyse de données : Excel avancé (tableaux croisés dynamiques, RECHERCHEX, macros VBA), Power BI, SQL (bases)
+- Supply chain : gestion des stocks, couverture de stock, prévisions de la demande, suivi des KPI logistiques, S&OP
+- Méthodes : amélioration continue, Lean, analyse des écarts, reporting pour le comité de direction
+- Outils : SAP (module MM), Power Query, PowerPoint
+
+Expériences
+- Stage analyste supply chain (6 mois) chez un distributeur de produits cosmétiques : consolidation des inventaires de 8 pays européens, création de tableaux de bord Power BI, détection des ruptures et surstocks.
+- Stage assistant approvisionnement (4 mois) : suivi des commandes fournisseurs, analyse des délais de livraison, mise à jour des prévisions.
+
+Projets
+- Étude de cas : optimisation des niveaux de stock de sécurité pour une gamme de 200 produits.
+
+Langues : français (natif), anglais (C1), espagnol (B1).

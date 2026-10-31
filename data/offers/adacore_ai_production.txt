@@ -1,0 +1,27 @@
+AdaCore – Internship: AI for production systems monitoring
+
+AdaCore: Helping Developers Build Software that Matters
+Everything we do at AdaCore is centered around helping developers build safe, secure and reliable software.
+For 30 years, we've partnered with global leaders in aerospace & defense, air traffic management, space, railway and financial services. We've developed tools and services simplifying high-integrity software development through a subscription-based model. As demand for secure applications grows in industries like automotive, medical, energy, and IoT, we're adapting our proven technologies to assist a new generation of developers.
+Our +190 global experts based in the US, France, Germany, the UK, and Estonia, collectively develop cutting-edge technologies to address the challenges of high-grade software development.
+
+Context
+AdaCore generates and qualifies hundreds of binary packages daily, using diverse languages and build technologies.
+During this internship, you will join a dynamic IT team at AdaCore and learn how to build and manage the production system of secure software by improving our dedicated process. With terabytes of packages produced and tested daily, many problems can arise, and we want to investigate how AI could help us monitor and resolve them securely.
+Some examples of areas of our infrastructure that benefit from this improvement: GitLab CI pipelines, nightly build monitoring, and DevOps optimization.
+
+Goals
+- Explore the possibilities of using AI in a production system (automated monitoring tasks, root cause analysis, generation of merge requests…)
+- Prepare the integration plan and investigate potential security risks and limitations.
+- Integrate the solutions into production.
+
+Skills required or nice to have
+- Programming in Python
+- Development environment (Gitlab)
+- Containers (Docker/Podman)
+
+Timeframe & Location
+During 2027 - 6 months - Paris/Toulouse office
+
+Beyond the job
+We prioritize individual development by offering continuous training from day one with a personalized onboarding plan, and we encourage flexibility to ensure a healthy work-life balance.
