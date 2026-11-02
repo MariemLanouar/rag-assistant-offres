@@ -1,0 +1,55 @@
+About the job
+Description de l’entreprise
+
+Institution financière internationale de premier plan, Natixis Corporate & Investment Banking met à disposition des entreprises, institutions financières, fonds d’investissement, agences souverains et supranationaux une palette de services en conseil, investment banking, financements, banque commerciale et sur les marchés de capitaux.
+
+Ses équipes d’experts, présentes dans environ 30 pays, conseillent les clients sur leur développement stratégique en les accompagnant dans le développement et la transformation de leurs activités tout en maximisant leur impact positif. Natixis CIB s’engage sur un alignement de son portefeuille de financements sur une trajectoire de neutralité carbone d’ici 2050 tout en aidant ses clients à réduire l’impact environnemental de leur activité.
+
+Natixis CIB fait partie du Groupe BPCE, deuxième groupe bancaire en France à travers les réseaux Banque Populaire et Caisse d’Epargne. Elle bénéficie de la puissance financière et des solides notations du Groupe (Standard & Poor's : A+, Moody's : A2, Fitch Ratings: A+, R&I : A+).
+
+Poste et missions
+
+Vous rejoignez notre équipe Trades and Observability, au sein du département Risk Monitoring & Repositories de l'IT Global Markets & Risks de Natixis CIB, qui recherche un développeur fullstack pour un stage de 6 mois à partir de janvier 2027.
+
+Vous intégrez l'équipe du projet LINK, composée de deux business analysts IT, deux développeurs/data engineers et d'un Squad Lead. L'application LINK est constituée de plusieurs modules s'appuyant sur des technologies variées :
+
+Module 1 (Batch Windows) : C#, Oracle
+Module 2 (Batch Hadoop) : Spark/Scala, Python, Hive
+Module 3 (Site web) : Angular, NestJs 
+
+L'enjeu est d'améliorer l'interface web de consultation et de modification des données, ainsi que les outils de monitoring et de reporting.
+
+En collaboration avec votre tuteur, vos missions principales seront :
+
+Assurer l'étude technique et la conception de solutions ;
+Travailler dans le développement front-end et back-end ;
+Mettre en place des tests unitaires ;
+Comparér et évaluér les outils techniques ;
+Rédigir la documentation ;
+Améliorér notre pipe DevOps.
+
+#FinanceTransformative
+
+Vous évoluez dans un environnement international et inclusif, favorisant le collaboratif avec des missions concrètes et un impact réel. Nous vous accompagnerons tout au long de votre expérience chez nous pour que vous puissiez apprendre et développer vos compétences en travaillant aux côtés de professionnels expérimentés.
+
+Vous avez également la possibilité de vous engager en faveur de la société et de causes qui vous tiennent à cœur via notre fondation d’entreprise.
+
+En plus d’une indemnité de stage attractive calculée en fonction de votre formation et de votre niveau d’études, vous bénéficiez du remboursement de votre titre de transport à hauteur de 60 %, d’un jour d’absence autorisé payé pour chaque mois travaillé et de l’accès au restaurant de l’entreprise.
+
+Vous pourrez également avoir accès au comité d’entreprise.
+
+Profil et compétences requises
+
+Étudiant de niveau Bac+5, vous préparez un diplôme (en école d'ingénieur ou équivalent) avec une spécialisation en informatique.
+
+Vous avez un profil de développeur full stack et avez acquis une expérience sur des projets mobilisant tout ou partie des technologies suivantes : Java, SQL, C#, Spark/Scala et Angular.
+
+Curieux et motivé, vous souhaitez découvrir ou approfondir vos connaissances en finance de marché dans un environnement bancaire international.
+
+Vous êtes autonome, rigoureux et aimez travailler en équipe.
+
+And last but not least, you are perfectly fluent in English.
+
+Vous serez contacté par l’un de nos recruteurs avant de rencontrer nos experts métier.
+
+Un moment d’échange idéal pour mettre en avant votre personnalité ainsi que votre projet.

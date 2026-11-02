@@ -16,15 +16,11 @@ Après chaque information, cite le ou les extraits utilisés avec leur numéro, 
 Si les extraits ne contiennent pas la réponse, dis-le clairement au lieu d'inventer.
 Réponds en français, de façon concise."""
 
-def retrieve(client: OpenAI, collection, question: str, embedding_model: str, k: int = TOP_K) -> list[dict]:
-    """Return the k chunks whose meaning is closest to the question."""
-    # 1. The question becomes a vector, with the SAME model used for the chunks
+def retrieve(client: OpenAI, collection, question: str, embedding_model: str, k: int = TOP_K, source: str | None = None) -> list[dict]:
+    """Return the k chunks closest to the question, optionally only from one offer (source)."""
     query_vector = client.embeddings.create(model=embedding_model, input=[question]).data[0].embedding
-
-    # 2. ChromaDB finds the closest vectors (cosine distance: smaller = closer)
-    results = collection.query(query_embeddings=[query_vector], n_results=k)
-
-    # 3. We regroup each chunk with its source and its distance
+    where = {"source": source} if source else None  # metadata filter: search inside one offer only
+    results = collection.query(query_embeddings=[query_vector], n_results=k, where=where)
     return [
         {"text": doc, "source": meta["source"], "chunk": meta["chunk"], "distance": dist}
         for doc, meta, dist in zip(results["documents"][0], results["metadatas"][0], results["distances"][0])
