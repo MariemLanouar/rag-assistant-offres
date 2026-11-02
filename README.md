@@ -26,17 +26,17 @@ The app has three tabs:
 
 | All offers | One offer |
 |---|---|
-| ![Questions](docs/screenshots/questions.png) | ![Filter](docs/screenshots/questions2.png) |
+| ![Questions](doc/screenshots/questions.png) | ![Filter](doc/screenshots/questions2.png) |
 
 **CV matching**: ranking of the offers, then strong points and missing skills for the best ones (fictional frontend CV)
 
 | Ranking | Explanation |
 |---|---|
-| ![Matching](docs/screenshots/matching.png) | ![Analysis](docs/screenshots/analyse.png) |
+| ![Matching](doc/screenshots/matching.png) | ![Analysis](doc/screenshots/analyse.png) |
 
 **Adding an offer**: pasted, saved and indexed immediately
 
-![Add an offer](docs/screenshots/ajout.png)
+![Add an offer](doc/screenshots/ajout.png)
 
 ## Examples (command line)
 
